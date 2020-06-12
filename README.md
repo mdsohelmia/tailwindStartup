@@ -9,7 +9,7 @@ To get started:
     ```bash
     git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
 
-    cd tailwindcss-playground
+    cd tailwindStartup
     ```
 
 2. Install the dependencies:
