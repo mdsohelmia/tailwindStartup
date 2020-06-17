@@ -7,7 +7,7 @@ To get started:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/sohel1999/tailwindStartup.git
 
     cd tailwindStartup
     ```
